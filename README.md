@@ -1,5 +1,5 @@
 # Hospital_Management_System
-We will build a Hospital Management System that can: 
+I built a Hospital Management System that can: 
 1. Add doctors
 2. Add patients
 3. View doctors
